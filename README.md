@@ -1,5 +1,5 @@
 # PAINN-Arm
-Operating procedures, codes and CADS for the four DOF robotic arm teaching aids
+Operating procedures, codes and CADS for the four DOF robotic arm teaching aid for the course BITS F327 - AI for Robotics
 
 # Precautions
 - Adhere to the given limits of the arm, going beyond the limits could damage the arm or result in injuries.
