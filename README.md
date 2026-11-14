@@ -18,6 +18,12 @@ Operating procedures, codes and CADS for the four DOF robotic arm teaching aids
 |3. | 90-315 | 1024-3584 |
 |4. | 110 - 180| 1254-2048 |
 
+![Joint Limits](images/joint_limits.png)
+
+# Link Lengths
+- Please verify the link lengths yourself before planning any trajectory
+- 
+
 
 
 
