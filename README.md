@@ -5,8 +5,8 @@ Operating procedures, codes and CADS for the four DOF robotic arm teaching aids
 - Adhere to the given limits of the arm, going beyond the limits could damage the arm or result in injuries.
 - Limits have been specified from the Arm's neutral position. 
 - Run the arm at low speeds, low speeds result in lower errors and are less stressful on the arm.
-- Ensure that the Z coordinate of the end effector do not become negative (ie. the end effector should not go below the base of the robot arm).
-- Incase the arm behaves erratically TURN OFF POWER AND STEP AWAY.
+- Ensure that the Z coordinate of the end effector does not become negative (ie. the end effector should not go below the base of the robot arm).
+- Incase the arm behaves erratically TURN OFF THE POWER AND STEP AWAY.
 - DO NOT TOUCH ANY EXPOSED WIRING.
 - Do not operate the end effector for this course
 
