@@ -22,7 +22,16 @@ Operating procedures, codes and CADS for the four DOF robotic arm teaching aids
 
 # Link Lengths
 - Please verify the link lengths yourself before planning any trajectory
-- 
+- For the scope of this course ignore the end effector and treat it as an extension of link 3
+- It may be helpful to treat the base height as zero (d1 = 0) to stop the arm from colliding with the base.
+
+|Link No.|Length in mm|
+|--------|------------|
+|d1 (base)| 65.7|
+|L2|136.5|
+|L3|97.06|
+|L4 (ee, fully extended|101.04|
+
 
 
 
