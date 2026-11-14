@@ -1,11 +1,7 @@
 #!/usr/bin/env python
 #
-# *********     Sync Read and Sync Write Example      *********
-#
-#
-# Available ST Servo model on this example : All models using Protocol ST
-# This example is tested with a ST Servo(ST3215/ST3020/ST3025), and an URT
-#
+#This code moves your arm based on angle inputs in the terminal, adhere to the limits of the arm.
+#The code stores position, velocity and acceleration data for each servo in a CSV file.
 
 import sys
 import os
