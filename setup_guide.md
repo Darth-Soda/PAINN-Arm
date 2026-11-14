@@ -12,6 +12,7 @@
 8. Enter/Activate already created Virtual Environment: “.venv\Scripts\Activate.ps1” for Windows
 9. Install the requirements: python -m pip install -r requirements.txt
 10. Navigate to the folder: cd stservo-env\sms_sts
+11. Run any example code, REFER TO THE README FILE before you run any code.
 
 
 
