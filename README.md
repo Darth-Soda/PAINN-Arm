@@ -32,6 +32,8 @@ Operating procedures, codes and CADS for the four DOF robotic arm teaching aids
 |L3|97.06|
 |L4 (ee, fully extended|101.04|
 
+![Link Lengths](images/link_lengths.png)
+
 
 
 
